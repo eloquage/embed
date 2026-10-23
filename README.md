@@ -1,5 +1,8 @@
 # Embedding helpers for PHP apps: normalize, chunk metadata, cache keys, and provider-agnostic embedding DTOs for RAG pipelines.
 
+<p align="center"><img src="art/banner.png" alt="embed package banner" width="100%"></p>
+
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/eloquage/embed.svg?style=flat-square)](https://packagist.org/packages/eloquage/embed)
 [![Tests](https://github.com/eloquage/embed/actions/workflows/run-tests.yml/badge.svg)](https://github.com/eloquage/embed/actions/workflows/run-tests.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/eloquage/embed.svg?style=flat-square)](https://packagist.org/packages/eloquage/embed)
